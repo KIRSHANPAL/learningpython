@@ -1,1 +1,1 @@
-utility fucntion for git
+utility fucntion for git verions 2
